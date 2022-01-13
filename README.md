@@ -11,6 +11,11 @@ FIXME description about the Tutorial
 - If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
 - Please follow our [FIXME - contributing guidelines](https://github.com/ISCB-Academy/FIXME/blob/main/CONTRIBUTING.md). 
 
+## Citation
+
+If you use any of teh materials of this lesson, please cite as:
+> FIXME
+
 ## License
 
 This work is licensed under a
